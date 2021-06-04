@@ -20,7 +20,6 @@ namespace Asynchronous_Programming_3
                 for (int i = 0; i < 5; i++)
                 {
                     Console.WriteLine(" Method 1");
-                    // Do something
                     Thread.Sleep(3000);
                 }
             });
@@ -32,7 +31,6 @@ namespace Asynchronous_Programming_3
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine(" Method 2");
-                // Do something
                 Thread.Sleep(3000);
             }
         }
