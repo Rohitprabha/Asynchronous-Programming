@@ -18,10 +18,6 @@ namespace Asynchronous_programming
             {
                 Method1();
             });
-            //Task.Run(() =>
-            //{
-            //    Method2();
-            //});
             Task.Run(() =>
             {
                 Method3();
