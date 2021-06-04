@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asynchronous Programming 2/1.0.0": {
+        "runtime": {
+          "Asynchronous Programming 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asynchronous Programming 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
